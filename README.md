@@ -22,11 +22,10 @@
 
 # :spider: FrontWeek | Projeto Spider-Man Miles Morales
 
+
 <!-- ==> ==> ==> ==> Sobre o projeto <== <== <== <== -->
 
 ## :spider_web: Sobre o Projeto
-
-
 
 <p> 
     Projeto de uma interface web do novo jogo do Homem-Aranha: Spiderman - Miles Morales, para Playstation 5.
@@ -39,8 +38,6 @@
 
 ## :hammer_and_wrench: Tecnologias
 
-
-
 ### :books: Linguagens/Frameworks
 
 * HTML
@@ -48,12 +45,14 @@
 * SASS
 * JavaScript
   
+
 ### :open_book: Bibliotecas
 
 * [TiltJs](https://gijsroge.github.io/tilt.js/) - Biblioteca para aplicar o efeito parallax.  
 * [TweenMax](https://greensock.com/docs/v2/TweenMax) - Biblioteca que contém a funcionalidade de execução em timeline.
 * [SVG Inject](https://github.com/iconfu/svg-inject) - Biblioteca para injetar arquivos .svg. 
 * [Google Fonts](https://fonts.google.com/) - Fontes utilizadas no projeto.
+
 
 ### :toolbox: Ferramentas
 
@@ -63,7 +62,6 @@
 
 
 ## 🖼️ Imagens do Projeto
-
 
 <div align="center" >
   <img src="img/image-loading.png" width="100%"/>
@@ -75,9 +73,8 @@
   <img src="img/image-project-spider.png" width="100%"/>
 </div>
 
-##  Rodando o Projeto
 
-
+## :rocket: Rodando o Projeto
 
 ```bash
 # Clone este repositório
@@ -92,9 +89,6 @@ index.html
 
 ## :thought_balloon: Inspiração
 
-
-
 * [Násser Yousef Ali](https://www.nyousefali.com.br) - Semana FrontWeek
-
 
 Feito com :heart: por [Wesley Elias](https://github.com/Wesley-Elias) 👋🏼
